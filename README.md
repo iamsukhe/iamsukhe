@@ -3,7 +3,7 @@
 
 [![Linkedin Follow](	https://img.shields.io/badge/iamsukhe-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=iamsukhe_)
 
-## I'm a Developer, Electrical Student, and Loves to Code!!
+## I'm a Developer, Electrical Student, and Love to Code!!
 
 - 🔭 I am just doing my Internship in Hybrowlabs Technologies
 - 🌱 I’m currently learning everything, I enjoy learning new things.
