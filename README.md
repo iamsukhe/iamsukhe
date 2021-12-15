@@ -1,7 +1,7 @@
 ### Hi there, I'm Sukhvinder Singh - aka [Sukhe][website] 👋 
 
 
-[![Linkedin Follow](	https://img.shields.io/badge/iamsukhe-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=iamsukhe_)
+[![Linkedin Follow](	https://img.shields.io/badge/iamsukhe-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sukhvinder-singh-4029a8190/)
 
 ## I'm a Developer, Electrical Student, and Love to Code!!
 
