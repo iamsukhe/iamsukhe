@@ -16,6 +16,7 @@
 [<img align="left" alt="iamsukhe | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="iamsukhe | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="iamsukhe | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="iamsukhe | Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />][leetcode]
 
 <br />
 
@@ -38,6 +39,7 @@
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamsukhe&show_icons=true&theme=dark&locale=en&layout=compact" alt="iamsukhe" /></p>
 
 [website]: https://iamsukhe.com 
+[leetcode]: https://leetcode.com/iamsukhe/
 [twitter]: https://twitter.com/iamsukhe_ 
 [instagram]: https://www.instagram.com/sukhvinder.singh_/
 [linkedin]: https://www.linkedin.com/in/sukhvinder-singh-4029a8190/  
