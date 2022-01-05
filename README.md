@@ -1,4 +1,4 @@
-### Hi there, I'm Sukhvinder Singh - aka [Sukhe][website] 👋 
+### Hi there, I'm Sukhvinder Singh - aka [Sukhe][website] <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 
 [![Linkedin Follow](	https://img.shields.io/badge/iamsukhe-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sukhvinder-singh-4029a8190/)
