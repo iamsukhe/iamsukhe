@@ -7,7 +7,7 @@
 
 - 🔭 I am just doing my Internship in Hybrowlabs Technologies
 - 🌱 I’m currently learning everything, I enjoy learning new things.
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fav quote: Seek knowledge from the cradle to the grave
 
 ### Connect with me:
