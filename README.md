@@ -5,7 +5,7 @@
 
 ## I'm a Developer, Electrical Student, and Love to Code!!
 
-- 🔭 I am just doing my Internship in Suraasa
+- 🔭 Backend Developer in Suraasa
 - 🌱 I’m currently learning everything, I enjoy learning new things.
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fav quote: Seek knowledge from the cradle to the grave
