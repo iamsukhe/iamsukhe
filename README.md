@@ -1,21 +1,13 @@
-### Hi there, I'm Sukhvinder Singh - aka [Sukhe][website] 👋
-
-
-[![Linkedin Follow](	https://img.shields.io/badge/iamsukhe-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sukhvinder-singh-4029a8190/)
-
+### Hi there, I'm Sukhvinder Singh - aka [Sukhe][website] 👋 
 ## I'm a Developer, Electrical Student, and Love to Code!!
 
-- 🔭 Backend Developer in Suraasa
+- 🔭 Backend Developer at Suraasa
 
-### Connect with me:
-
- 
-[<img align="left" alt="iamsukhe | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="iamsukhe | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="iamsukhe | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="iamsukhe | Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />][leetcode]
-
-<br />
+<h3>Connect with me:</h3>
+<p>
+<a href="https://www.linkedin.com/in/sukhvinder-singh-4029a8190/" target="blank"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="priyankeshraj" height="40" width="40" /></a>  
+<a href="https://leetcode.com/iamsukhe/" target="blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="priyankeshraj" height="40" width="40" /></a>
+</p> 
 
 ### Languages and Tools:
 
