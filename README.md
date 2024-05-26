@@ -26,7 +26,7 @@
 <br />
 
 ### Github:
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sukheAtsuraasa&show_icons=true&theme=dark&locale=en&layout=compact" alt="iamsukhe" /></p>
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamsukhe&show_icons=true&theme=dark&locale=en&layout=compact" alt="iamsukhe" /></p>
 
 [website]: https://iamsukhe.com 
 [leetcode]: https://leetcode.com/iamsukhe/
