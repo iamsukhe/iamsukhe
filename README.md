@@ -1,7 +1,7 @@
 ### Hi there, I'm Sukhvinder Singh - aka [Sukhe][website] 👋 
 ## I'm a Developer, Electrical Student, and Love to Code!!
 
-- 🔭 Backend Developer at Suraasa
+- 🔭 CS Student at University of Essex
 
 <h3>Connect with me:</h3>
 <p>
