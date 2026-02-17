@@ -1,5 +1,5 @@
 ### Hi there, I'm Sukhvinder Singh - aka [Sukhe][website] 👋 
-## I'm a Developer, Electrical Student, and Love to Code!!
+## I'm a Developer, Computer Science Student, and Love to Code!!
 
 - 🔭 CS Student at University of Essex
 
