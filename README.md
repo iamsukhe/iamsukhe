@@ -1,4 +1,4 @@
-### Hi there, I'm Sukhvinder Singh - aka [Sukhe][https://portfolio-sandy-sigma-58.vercel.app/] 👋 
+### Hi there, I'm Sukhvinder Singh - aka [Sukhe] 👋 
 ## I'm a Developer, Computer Science Student, and Love to Code!!
 
 - 🔭 CS Student at University of Essex
