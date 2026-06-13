@@ -39,3 +39,8 @@
 [twitter]: https://twitter.com/iamsukhe_ 
 [instagram]: https://www.instagram.com/sukhvinder.singh_/
 [linkedin]: https://www.linkedin.com/in/sukhvinder-singh-4029a8190/  
+
+<br />
+<br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamsukhe\&layout=pie)](https://github.com/iamsukhe/github-readme-stats)
