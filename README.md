@@ -42,5 +42,3 @@
 
 <br />
 <br />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamsukhe\&layout=pie)](https://github.com/iamsukhe/github-readme-stats)
